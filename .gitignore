@@ -1,0 +1,16 @@
+# Node
+node_modules/
+dist/
+build/
+coverage/
+*.log
+
+# Môi trường
+.env
+.env.*
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
